@@ -8,7 +8,7 @@ const projects = [
     name: "Video Meet",
     year: "Aug2024",
     align: "right",
-    image: "../../public/images/p-1.png",
+    image: "/images/projectimage.png",
     link: "https://github.com/Dharsaikat13/Videomeet",
   },
  
